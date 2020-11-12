@@ -16,7 +16,6 @@ class Person {
     this.saySomething = saySomething;
   }
 }
-
 class Developer extends Person {
   public bestLanguage: (B: string) => void;
 
